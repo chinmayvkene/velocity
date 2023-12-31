@@ -8,6 +8,7 @@ pipeline{
 			
 			steps{
 				echo "This is master branch"
+				echo "First branch"
 			}
 		}
 	}
